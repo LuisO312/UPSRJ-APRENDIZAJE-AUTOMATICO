@@ -183,7 +183,7 @@ def multiply_matrices(a:np.ndarray, b:np.ndarray) -> np.ndarray:
     multiplication = np.matmul(a, b)
     return multiplication
 
-# Ejercicio 9
+# Ejercicio 9 
 # TODO: Crea una función "normalize" que normalice un arreglo usando la fórmula 
 #       (x - min) / (max - min). El parámetro de entrada debe ser un arreglo de numpy y la salida 
 #       debe ser el arreglo normalizado.
